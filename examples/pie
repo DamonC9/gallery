@@ -1,0 +1,34 @@
+<div class="box-notesite">
+    <ul>
+        <li class="design">
+            <div class="notesite" id="note_0" data-note="8.02"></div>
+        </li>
+        <li class="creativity">
+            <div class="notesite" id="note_1" data-note="7.73"></div>
+        </li>
+        <li class="usability">
+            <div class="notesite" id="note_2" data-note="7.67"></div>
+        </li>
+        <li class="content">
+            <div class="notesite" id="note_3" data-note="8.02"></div>
+        </li>
+        <li class="total">
+            <div class="notesite" id="note_4" data-note="7.90"></div>
+        </li>
+        <li class="laurel">
+            <span class="type">SOTD</span>
+            <span class="day">09</span>
+            <span class="month">DEC</span>
+        </li>
+    </ul>
+    <div class="list-legend">
+        <ul>
+            <li class="design">Design</li>
+            <li class="creativity">Creativity</li>
+            <li class="usability">Usability</li>
+            <li class="content">Content</li>
+            <li class="total bold">Average</li>
+            <li class="special bold">Site of the Day</li>
+        </ul>
+    </div>
+</div>
